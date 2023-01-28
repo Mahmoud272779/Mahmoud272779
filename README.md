@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud El-Sayed Mahmoud Raouf</h1>
-<h3 align="center">I am a 4th year student in Computer Engineering department in Cairo University from Egypt. I am passionate about machine & deep learning. I also interested in web development with Flutter framework. I am now looking for an opportunity in work environment to apply what I have learned in my college</h3>
+<h3 align="center">I am a 4th year student in Computer Engineering department in Cairo University from Egypt. I am passionate about machine & deep learning. I also interested in web development with Flutter framework. I am now looking for an opportunity in work environment to apply what I have learned in my college.</h3>
 
-- 🌱 I’m currently learning **machine learning and deep learning algorithms**
+- 🌱 I’m currently learning **machine learning and deep learning algorithms.**
 
 - 📫 How to reach me **me974931@gmail.com**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-el-sayed-13395a1a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-el-sayed-13395a1a2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-el-sayed-13395a1a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-el-sayed-13395a1a2" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100006209988436&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006209988436&mibextid=zbwkwl" height="30" width="40" /></a>
 </p>
 
