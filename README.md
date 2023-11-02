@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mahmoud El-Sayed Mahmoud Raouf 👋</h1>
-<h3 align="center">I am a 4th year student in Computer Engineering department in Cairo University from Egypt. I am passionate about machine & deep learning. I also interested in web development with Flutter framework. I am now looking for an opportunity in work environment to apply what I have learned.</h3>
+<h3 align="center">I am a fresh graduate from Computer Engineering department in Cairo University from Egypt. I am passionate about Backend development & machine learning & deep learning. I also interested in web development with Flutter framework. I am now looking for an opportunity in work environment to apply what I have learned.</h3>
 
-- 🌱 I’m currently learning **machine learning and deep learning algorithms.**
+- 🌱 I’m currently learning **Backend development with ASP.net core.**
 
 - 📫 How to reach me **me974931@gmail.com**
 
