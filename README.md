@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **me974931@gmail.com**
 - Phone: ****01026932898****
-- 📄 Know about my experiences: [Click to reach my CV](https://drive.google.com/file/d/1QYAaf72ZkBv2ivVTrR7QWwNXjAbwslhS/view)
+- 📄 Know about my experiences: [Click to reach my CV](https://drive.google.com/file/d/18rj5WSxvqHU_W95z2h6BmFvAtDxQ78SU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
