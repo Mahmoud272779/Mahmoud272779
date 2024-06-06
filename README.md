@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Mahmoud El-Sayed Mahmoud Raouf 👋</h1>
-<h3 align="center">I am a fresh graduate from Computer Engineering department in Cairo University from Egypt. I am passionate about Backend development & machine learning & deep learning. I also interested in web development with Flutter framework. I am now looking for an opportunity in work environment to apply what I have learned.</h3>
-
-- 🌱 I’m currently learning **Backend development with ASP.net core.**
+<h3 align="center">I am a backend developer with expertise in the .NET framework. I specialize in designing, developing, and maintaining robust backend systems using C# and .NET technologies. My skill set includes proficiency in ASP.NET , ASP.NET Core, Entity Framework, and Web API development. Throughout my career, I have successfully delivered scalable solutions that meet business objectives and enhance user experiences. Prior to my current role, I have worked on ERP system. I am passionate about leveraging innovative technologies to drive efficiency and deliver high-quality software solutions..</h3>
 
 - 📫 How to reach me **me974931@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QYAaf72ZkBv2ivVTrR7QWwNXjAbwslhS/view](https://drive.google.com/file/d/1QYAaf72ZkBv2ivVTrR7QWwNXjAbwslhS/view)
+- Phone: ****01026932898****
+- 📄 Know about my experiences: [Click to reach my CV](https://drive.google.com/file/d/1QYAaf72ZkBv2ivVTrR7QWwNXjAbwslhS/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
